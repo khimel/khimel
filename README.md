@@ -4,6 +4,8 @@
 
 Feel free to check my work :)
 
+- Check my <a href="https://github.com/khimel/khimel/blob/master/Mohammad_Khimel_Res.pdf">CV</a
+
 
 - 📫 How to reach me: mhamadkhimel@gmail.com, +972548155900
 - LinkedIn: https://www.linkedin.com/in/mohammadkhimel/
